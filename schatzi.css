@@ -337,4 +337,42 @@ footer {
 }
 .special-card .small-btn {
   margin: 0 20px 20px;
+}.teig-section {
+  margin-top: 40px;
+  padding: 28px;
+  background: #fffaf4;
+  border-radius: 20px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}
+
+.teig-section h2,
+.teig-section h3 {
+  color: #8b4513;
+}
+
+.teig-section p {
+  line-height: 1.7;
+  color: #333;
+}
+
+.teig-section ul,
+.teig-section ol {
+  line-height: 1.8;
+  color: #333;
+  padding-left: 22px;
+}
+
+.process-photo {
+  width: 100%;
+  max-width: 750px;
+  display: block;
+  margin: 18px auto;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+.teig-note {
+  margin-top: 12px;
+  font-style: italic;
+  color: #6b4b2a;
 }
